@@ -1,2 +1,3 @@
-# Agenda
-Dapper in .net Core
+# Dapper in .net Core
+
+
