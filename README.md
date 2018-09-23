@@ -11,6 +11,8 @@ https://dotnet.github.io/
 ### ¿Dapper es mejor que Entity Framework?
 ¡Si y no! La gente preferirá Dapper cuando quiera escribir la consulta SQL con un rendimiento óptimo.
 
+https://media.giphy.com/media/3ohjV4o2uI3sfle8Te/giphy.gif
+
 ### ¿Son seguras las inyecciones de Dapper SQL?
 Sí, es 100% seguro si usa consultas parametrizadas como siempre debería hacer.
 
