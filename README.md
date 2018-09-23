@@ -14,7 +14,7 @@ https://dotnet.github.io/
 ### ¿Son seguras las inyecciones de Dapper SQL?
 Sí, es 100% seguro si usa consultas parametrizadas como siempre debería hacer.
 
-
+![injection](https://user-images.githubusercontent.com/32500709/45932607-46b8d600-bf44-11e8-9173-45c8ede0a577.gif)
 
 ### ¿Da Dapper es compatible con mi proveedor de base de datos?
 Probablemente sí, ya que Dapper proporciona extensiones a la interfaz IDbConnection. Es su trabajo escribir el SQL compatible con su proveedor de base de datos.
