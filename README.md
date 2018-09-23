@@ -2,8 +2,8 @@
 
 Presentación de Dapper y su ejemplo de funcionamiento en .Net Core
 
-http://dapper-tutorial.net/
-https://dotnet.github.io/
+#### Sitio web de Dapper http://dapper-tutorial.net/
+#### Sitio web .net Core https://dotnet.github.io/
 
 ## Es Dapper un ORM?
 ¡Si y no! La gente todavía está discutiendo al respecto. Dapper se ha ganado el título de rey de los Micro ORM para C# pero es considerado por varias personas como un simple mapeador de objetos para .NET.
