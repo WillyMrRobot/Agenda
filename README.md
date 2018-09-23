@@ -18,7 +18,7 @@ Sí, es 100% seguro si usa consultas parametrizadas como siempre debería hacer.
 
 ![injection](https://user-images.githubusercontent.com/32500709/45932607-46b8d600-bf44-11e8-9173-45c8ede0a577.gif)
 
-### ¿Da Dapper es compatible con mi proveedor de base de datos?
+### ¿Dapper es compatible con mi proveedor de base de datos?
 Probablemente sí, ya que Dapper proporciona extensiones a la interfaz IDbConnection. Es su trabajo escribir el SQL compatible con su proveedor de base de datos.
 
 <img width="247" alt="support" src="https://user-images.githubusercontent.com/32500709/45932491-8ed6f900-bf42-11e8-93c3-7f737c40d4b8.png">
