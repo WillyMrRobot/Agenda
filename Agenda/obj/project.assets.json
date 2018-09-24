@@ -12254,8 +12254,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wballesteros\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\balle\\.nuget\\packages\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -12263,14 +12263,14 @@
       "projectUniqueName": "C:\\estudio\\Agenda\\Agenda\\Agenda.csproj",
       "projectName": "Agenda",
       "projectPath": "C:\\estudio\\Agenda\\Agenda\\Agenda.csproj",
-      "packagesPath": "C:\\Users\\wballesteros\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\balle\\.nuget\\packages\\",
       "outputPath": "C:\\estudio\\Agenda\\Agenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wballesteros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\balle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
